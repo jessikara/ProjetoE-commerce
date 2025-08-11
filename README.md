@@ -1,4 +1,5 @@
 🛒 Modelo de Banco de Dados - E-commerce
+
 Este repositório contém o modelo conceitual e lógico de um sistema de E-commerce, desenvolvido no MySQL Workbench.
 O objetivo é demonstrar a estrutura de tabelas, chaves e relacionamentos necessários para gerenciar um fluxo básico de comércio eletrônico.
 
